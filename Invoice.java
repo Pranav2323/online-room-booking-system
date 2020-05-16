@@ -18,9 +18,10 @@ public int CalBill(int days, String type) {
 		}
 		return bill;
 		}
-		else
-		{
+	}	
+	else
+	{
 			return -1;
-		}
 	}
+	
 }
